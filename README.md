@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabbo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on : nothing
 - 📫 How to reach me: Just email me here { kabbo.sayan@gmail.com }
 - 😄 Pronouns: He/Him
